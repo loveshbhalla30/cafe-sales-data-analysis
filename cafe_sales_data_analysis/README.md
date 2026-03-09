@@ -24,4 +24,5 @@ This project analyzes cafe sales data using SQL, Excel Power Query and Power BI.
 
 ## Dashboard Preview
 
-![Dashboard](power_bi/cafe_sales_dashboard.png)
+
+![Dashboard](cafe_sales_data_analysis/Power%20BI%20Dashboard/cafe_sales_dashboard.png)
